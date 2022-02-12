@@ -31,7 +31,7 @@ Our analysis revealed that 56.67% of the paid reviews were 5-star reviews (see I
 Image 5:<br>
 ![Paid 5-star reviews percentage](https://github.com/jmueller187/Amazon_Vine_Analysis/blob/main/Resources/PercentPaid5StarReviews.png)<br>
 Image 6:<br>
-![Unpaid 5-star reviews percentage](https://github.com/jmueller187/Amazon_Vine_Analysis/blob/main/Resources/PercentPaid5StarReviews.png)
+![Unpaid 5-star reviews percentage](https://github.com/jmueller187/Amazon_Vine_Analysis/blob/main/Resources/PercentUnpaid5StarReviews.png)
 
 ## Summary:
 After completing our analysis, we concluded that there was no evidence of any bias towards favorable reviews from the Vine reviewers in our selected dataset. The percentage of 5-star reviews between paid and unpaid reviews was less than a 1% difference. This tells us that an equal number of paid and unpaid reviewers submitted 5-star reviews on the products in this dataset.
