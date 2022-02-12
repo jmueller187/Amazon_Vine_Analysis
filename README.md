@@ -38,4 +38,11 @@ Image 6:<br>
 ![Unpaid 5-star reviews percentage](https://github.com/jmueller187/Amazon_Vine_Analysis/blob/main/Resources/PercentPaid5StarReviews.png)
 
 ## Summary:
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+After completing our analysis, we concluded that there was no evidence of any bias towards favorable reviews from the Vine reviewers in our selected dataset. The percentage of 5-star reviews between paid and unpaid reviews was less than a 1% difference. This tells us that an equal number of paid and unpaid reviewers submitted 5-star reviews on the products in this dataset.
+
+We also performed an additional analysis on all the remaining paid and unpaid reviews (1-star to 4-star reviews). This also supported our conclusion of no bias towards favorable reviews. The percentage of non 5-star paid reviews was 43.33% (see Image 7) and the percentage of non 5-star unpaid reviews was 43.28% (see Image 8).<br>
+Image 7:<br>
+
+
+Image 8:<br>
+
