@@ -42,7 +42,7 @@ After completing our analysis, we concluded that there was no evidence of any bi
 
 We also performed an additional analysis on all the remaining paid and unpaid reviews (1-star to 4-star reviews). This also supported our conclusion of no bias towards favorable reviews. The percentage of non 5-star paid reviews was 43.33% (see Image 7) and the percentage of non 5-star unpaid reviews was 43.28% (see Image 8).<br>
 Image 7:<br>
-
+![Total and Percent non 5-star paid reviews](https://github.com/jmueller187/Amazon_Vine_Analysis/blob/main/Resources/TotalAndPercentPaidNon5StarReviews.png)
 
 Image 8:<br>
-
+![Total and Percent non 5-star unpaid reviews](https://github.com/jmueller187/Amazon_Vine_Analysis/blob/main/Resources/TotalAndPercentUnpaidNon5StarReviews.png)
