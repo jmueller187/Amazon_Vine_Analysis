@@ -11,7 +11,7 @@ Table 1:<br>
 Table 2:<br>
 ![Unpaid Vine Reviews](https://github.com/jmueller187/Amazon_Vine_Analysis/blob/main/Resources/NonVineReviewsDataFrame.png)
 
-We uses this data to address the following questions:
+We used this data to address the following questions:
 - How many Vine reviews and non-Vine reviews were there?<br>
 Our analysis identified a total of 60 paid Vine reviews (see Image 1), and 14,477 unpaid Vine reviews (see Image 2).<br>
 Image 1:<br>
